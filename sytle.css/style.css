@@ -1,0 +1,63 @@
+.container{
+    position: relative;
+   padding: 20px 20px ;
+    
+    
+}
+.container img{
+    width: 1330px;
+    height: 660px;
+    border-radius: 10px;
+ }
+.text{
+    color: white;
+    position: absolute;
+  top: 290px;
+  
+  right: 60px;
+  font-size: 18px;
+  
+}
+.container .btn{
+    color: darkblue;
+    width: 100px;
+    height: 35px;
+   border-radius: 10px;
+   border: grey;
+   margin-left: 220px;
+ 
+   
+}
+.container .all{
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+.my-future{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    color: black;
+   
+   
+}
+.previous{
+text-align: justify;
+margin-top: 230px;
+margin-left: 109px;
+
+}
+.previous i {
+   color: blue;
+}
+.previous h1{
+    font-size: 35px;
+}
+
+.My-Plans{
+    font-size: 60px;
+    margin-left: 630px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+ 
